@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Help.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Level Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Load Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PowerUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Save Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

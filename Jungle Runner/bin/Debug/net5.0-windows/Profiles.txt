@@ -1,0 +1,26 @@
+Username: Chintan
+Password: KK
+Unlocked Levels: 30
+Coins: 2000
+2X Coins: 10
+Slows: 10
+Lives: 20
+
+Username: Krish
+Password: krish
+Unlocked Levels: 1
+Coins: 0
+2X Coins: 0
+Slows: 0
+Lives: 1
+
+
+
+Username: neki123
+Password: neki
+Unlocked Levels:  1
+Coins:  0
+2X Coins:  0
+Slows:  0
+Lives:  1
+
